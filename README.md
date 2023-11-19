@@ -1,2 +1,3 @@
 # AESCrypt
-AES-256 Microsoft Cryptography API Example Use. 
+
+AESCrypt implementation of Microsoft Cryptography API, encrypt/decrypt with AES-256 from a passphrase.
