@@ -24,26 +24,12 @@ Derived key:
 eb 4a 5c d0 b7 3d bf b8 5e 8c 59 b6 92 b4 5b c2
 c4 fd f2 41 92 32 6d 8c da 37 d7 02 e0 b3 01 c6
 Decryption successful.
-PS C:\Users\Fantastic\source\repos\AESCrypt\x64\Release> dir secret*
-
-
-    Directory: C:\Users\Fantastic\source\repos\AESCrypt\x64\Release
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----        11/19/2023  10:04 AM             14 secret.txt
--a----        11/19/2023  10:04 AM             32 secret.txt.enc
--a----        11/19/2023  10:04 AM             14 secret.txt.enc.dec
-
 
 PS C:\Users\Fantastic\source\repos\AESCrypt\x64\Release> type .\secret.txt.enc
 2¹Šo>ƒ»®ñ`´
 
 <¸ÓmHðç©Ù?xt¢;
 PS C:\Users\Fantastic\source\repos\AESCrypt\x64\Release> type .\secret.txt.enc.dec
-1234
-PS C:\Users\Fantastic\source\repos\AESCrypt\x64\Release> type .\secret.txt
 1234
 ```
 
