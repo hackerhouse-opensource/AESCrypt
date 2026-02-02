@@ -26,13 +26,13 @@ c4 fd f2 41 92 32 6d 8c da 37 d7 02 e0 b3 01 c6
 Decryption successful.
 
 PS C:\Users\Fantastic\source\repos\AESCrypt\x64\Release> type .\secret.txt.enc
-2¹Šo>ƒ»®ñ`´
+2  o>    ` 
 
-<¸ÓmHðç©Ù?xt¢;
+<  mH   ?xt ;
 PS C:\Users\Fantastic\source\repos\AESCrypt\x64\Release> type .\secret.txt.enc.dec
 1234
 ```
 
 # License
 
-These files are available under a Attribution-NonCommercial-NoDerivatives 4.0 International license.
+These files are available under the 3-clause BSD license.
